@@ -6,19 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: B13nv3n1d0s
 
 # Your name to show in the footer
-author: Some Person
+author: P4bl0
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mí"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
